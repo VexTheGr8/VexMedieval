@@ -1,0 +1,41 @@
+STRUCTURES! 
+- Medieval Outpost
+- Medieval Compound
+- Colony
+- Trading Hub
+- Fountain
+- Large Logs
+
+WORKSTATIONS!
+
+ITEMS!
+-Longbow (bow with longer range)
+
+RECIPES!
+-Longbow (regular bow combined with a string in any formation)
+
+EVENTS
+
+- Seige:
+    Description: 3 waves of zombies in full iron armor that attack a Medieval Compound or nearest medieval structure;
+    REWARD(S):
+        - 1% chance of Hero of the Village
+        - 20% chance of Strength for 10 minutes
+        - 50% chance of getting a Longbow & Bad Omen Potion
+
+
+QUESTS
+
+- A Hero's Quest
+- A Villian's Descent into Madness
+- Explorer!
+
+
+SKILLS:
+- Health
+- Progression
+- Combat
+
+
+
+Developer: VexTheGr8

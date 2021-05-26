@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "VexMedieval",
+        "description": "A Medieval-themed datapack",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'VexTheGr8'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
