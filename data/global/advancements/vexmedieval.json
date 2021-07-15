@@ -1,7 +1,7 @@
 {
     "display": {
         "title": "VexMedieval",
-        "description": "A Medieval-themed datapack",
+        "description": "VexMedieval: a Minecraft datapack",
         "icon": {
             "item": "minecraft:player_head",
             "nbt": "{SkullOwner: 'VexTheGr8'}"
