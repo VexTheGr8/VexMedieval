@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:"{\"text\":\"Barrel of Apples\"}"},SkullOwner:{Id:[I;-900203049,898462951,-2117693315,1507717879],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODczMDhlNDJhYTg4ZDE3ODFhOWFjN2JmNmQ0ZDAyYjVmN2NiNTExYTE4NzMxNzgzMTFkODc4YjUzNzE4MWNjIn19fQ=="}]}}} 1

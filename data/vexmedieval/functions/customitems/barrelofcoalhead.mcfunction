@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:"{\"text\":\"Barrel of Coal\"}"},SkullOwner:{Id:[I;-1483689258,-674181633,-268932948,-836356030],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmRjMzE3MmMzMWJjY2YwNjg0N2Q2Nzk0NDBkMjMyNTlkNTAxNDc5ZWU5ZTEzZGI0ODU5NDUzNTRiM2YifX19"}]}}} 1

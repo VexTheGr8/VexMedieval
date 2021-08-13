@@ -1,0 +1,60 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blaze_powder"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_count",
+            "count": {
+              "min": 6,
+              "max": 19
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:glass_bottle"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_count",
+            "count": {
+              "min": 3,
+              "max": 10
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 34,
+        "bonus_rolls": 56,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_wart"
+          }
+        ]
+      }
+    ],
+    "functions": [
+      {
+        "function": "minecraft:set_count",
+        "count": {
+          "min": 5,
+          "max": 20
+        }
+      }
+    ]
+  }

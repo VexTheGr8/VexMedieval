@@ -1,0 +1,58 @@
+{
+    "pools": [
+      {
+        "rolls": 16,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 4,
+                  "max": 9
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 13,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blast_furnace"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_count",
+            "count": {
+              "min": 8,
+              "max": 12
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 15,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 4,
+                  "max": 6
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Quests.."
+        },
+        "description": {
+            "text": "Quests you can complete for special items or artifacts..."
+        },
+        "icon": {
+            "item": "minecraft:enchanted_book"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "functiongiven": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "vexmedieval:root"
+}

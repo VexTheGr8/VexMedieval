@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 34,
+        "bonus_rolls": 36,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:target"
+          }
+        ]
+      },
+      {
+        "rolls": 56,
+        "bonus_rolls": 32,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:fletching_table"
+          }
+        ]
+      },
+      {
+        "rolls": 53,
+        "bonus_rolls": 39,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:arrow"
+          }
+        ]
+      },
+      {
+        "rolls": 45,
+        "bonus_rolls": 98,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:flint"
+          }
+        ]
+      }
+    ]
+  }

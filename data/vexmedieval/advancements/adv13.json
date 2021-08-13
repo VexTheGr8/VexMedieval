@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Oh the humanity.."
+        },
+        "description": {
+            "text": "Kill 10 villagers"
+        },
+        "icon": {
+            "item": "minecraft:red_banner"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "functiontrigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "vexmedieval:adv11"
+}

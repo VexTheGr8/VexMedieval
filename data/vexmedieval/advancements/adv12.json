@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "That's alot of cobble.."
+        },
+        "description": {
+            "text": "Mine 1000 cobblestone"
+        },
+        "icon": {
+            "item": "minecraft:cobblestone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "functiontrigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "vexmedieval:adv11"
+}

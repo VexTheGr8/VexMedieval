@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Chivalry"
+        },
+        "description": {
+            "text": "Place an anvil, to start your knighthood!"
+        },
+        "icon": {
+            "item": "minecraft:iron_sword"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "placeanvil": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:anvil"
+            }
+        }
+    },
+    "parent": "vexmedieval:root"
+}

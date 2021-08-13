@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "text": "Protecting free trade!"
+        },
+        "description": {
+            "text": "Defend a village during a raid!"
+        },
+        "icon": {
+            "item": "minecraft:shield"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "hero": {
+            "trigger": "minecraft:hero_of_the_village"
+        }
+    },
+    "rewards": {
+        "experience": 10,
+        "function": "GIVECUSTOMITEMS"
+    },
+    "parent": "vexmedieval:adv3"
+}

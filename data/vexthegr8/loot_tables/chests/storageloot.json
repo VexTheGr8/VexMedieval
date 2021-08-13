@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 19,
+        "bonus_rolls": 37,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:chest"
+          }
+        ]
+      },
+      {
+        "rolls": 67,
+        "bonus_rolls": 43,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:oak_log"
+          }
+        ]
+      },
+      {
+        "rolls": 19,
+        "bonus_rolls": 67,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:barrel"
+          }
+        ]
+      }
+    ]
+  }

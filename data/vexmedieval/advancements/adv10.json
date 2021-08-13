@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "The passing of the torch"
+        },
+        "description": {
+            "text": "Give another player a torch"
+        },
+        "icon": {
+            "item": "minecraft:torch"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "invtorch": {
+            "trigger": "minecraft:thrown_item_picked_up_by_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:player"
+                },
+                "item": {
+                    "item": "minecraft:torch"
+                }
+            }
+        }
+    },
+    "parent": "vexmedieval:adv6"
+}

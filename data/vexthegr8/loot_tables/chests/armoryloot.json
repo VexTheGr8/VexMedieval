@@ -1,0 +1,62 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 7,
+        "bonus_rolls": 10,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:chainmail_helmet",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 2,
+                  "max": 11
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 6,
+        "bonus_rolls": 15,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:iron_ingot",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 3,
+                  "max": 16
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 34,
+        "bonus_rolls": 57,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:gold_ingot",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 5,
+                  "max": 12
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

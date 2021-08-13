@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "An unfortunate accident"
+        },
+        "description": {
+            "text": "Be killed by another player using a potion"
+        },
+        "icon": {
+            "item": "minecraft:black_banner"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "dishonorablepvpkill": {
+            "trigger": "minecraft:entity_killed_player",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:player"
+                },
+                "killing_blow": {
+                    "is_magic": true
+                }
+            }
+        }
+    },
+    "parent": "vexmedieval:adv6"
+}

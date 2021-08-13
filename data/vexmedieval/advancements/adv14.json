@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": {
+            "text": "Brutal Mercenary"
+        },
+        "description": {
+            "text": "Kill 100 players"
+        },
+        "icon": {
+            "item": "minecraft:player_head"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {},
+    "parent": "vexmedieval:adv11"
+}

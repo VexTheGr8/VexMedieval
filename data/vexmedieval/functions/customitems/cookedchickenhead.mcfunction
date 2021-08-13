@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:"{\"text\":\"Cooked Chicken\"}"},SkullOwner:{Id:[I;1150127731,-977647945,-1233667027,-1603611890],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDNlMjBhMjZjYmI1NzQwYTE1OGRhOTkxZWY5NGRjZDMyZDQ0N2U5YWMwM2FhMGU4ZjgyOWE0OTgzMDYxOWExMCJ9fX0="}]}}} 1
