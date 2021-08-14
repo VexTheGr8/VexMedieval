@@ -1,0 +1,1 @@
+give @s emerald{display:{Name:'{"text":"Emerald of Providence","color":"green","bold":true}',Lore:['{"text":"Protection of others is a noble thing to do ⚔ "}']},providence:1b,Enchantments:[{}]} 1

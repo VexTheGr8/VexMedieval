@@ -14,6 +14,10 @@
         "announce_to_chat": true,
         "hidden": false
     },
-    "criteria": {},
+    "criteria": {
+        "functiontrigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
     "parent": "vexmedieval:adv11"
 }
