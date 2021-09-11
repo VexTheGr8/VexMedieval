@@ -21,7 +21,7 @@
     },
     "rewards": {
         "experience": 10,
-        "function": "GIVECUSTOMITEMS"
+        "function": "vexmedieval:vm-items/barrelofapples"
     },
     "parent": "vexmedieval:adv3"
 }

@@ -22,7 +22,7 @@
                     "type": "minecraft:player"
                 },
                 "item": {
-                    "item": "minecraft:torch"
+                    "items": ["minecraft:torch"]
                 }
             }
         }
